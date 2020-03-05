@@ -1,4 +1,4 @@
-module github.com/yuin/goldmark-highlighting
+module github.com/satotake/goldmark-highlighting
 
 go 1.13
 
